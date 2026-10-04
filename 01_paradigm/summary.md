@@ -5,6 +5,7 @@
 ### 关键概念清单
 
 * **System 2 vs System 1**：Agent 的核心差异在于自主性与循环机制
+* **确定与不确定的分工**：能力与风险都来自模型的不确定性；模型提出请求，代码决定是否执行
 * **PEAS 模型**：Performance, Environment, Actuators, Sensors 的理性智能体框架
 * **四大核心组件**：Brain（规划），Perception（感知），Tools（行动），Memory（记忆）
 * **认知层级 L1-L5**：从辅助型到群体型的逐级进化
